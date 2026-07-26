@@ -1,3 +1,3 @@
 # gittu
 
-## this is gittu the git contri
+## this is gittu the git contribution playground
